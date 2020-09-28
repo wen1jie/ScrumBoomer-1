@@ -42,3 +42,5 @@ Q: hoe gebruikt ik de github repo?
 A: Gebruik GitHub desktop, vanaf daar kan je het openen in VSCode en dan kan je aan het werk
 
 Als je een vraag hebt die hier niet bij staad shoot me a dm op welk platform dan ook, ik heb twitter, insta, teams, whatsapp en of course Discord
+
+TEST
