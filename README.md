@@ -1,3 +1,3 @@
 # ScrumBoomer
 
-This is a test
+Dit is de main repository voor de Boomer Avond
