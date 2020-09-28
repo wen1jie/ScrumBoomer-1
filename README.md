@@ -38,4 +38,7 @@ A: Wanneer je maar wilt, mn slaap schema is toch helemaal naar de klote dus grot
 Q: Ronan je bent niet online, naar wie zal ik het dan sturen?
 A: Stuur het naar Ellie.
 
+Q: hoe gebruikt ik de github repo?
+A: Gebruik GitHub desktop, vanaf daar kan je het openen in VSCode en dan kan je aan het werk
+
 Als je een vraag hebt die hier niet bij staad shoot me a dm op welk platform dan ook, ik heb twitter, insta, teams, whatsapp en of course Discord
