@@ -1,9 +1,9 @@
-#Verzium systeem ROC-NIJMEGEN
+# Verzium systeem ROC-NIJMEGEN
 het verzuim systeem der ROC-nijmegense regels achtige
 
-###comments
-*= deze locatie heeft meerdere nummers zie () voor welke opleidingen er tot dat nummer horen
-##Ongeoorloofd afwezig
+### comments
+* deze locatie heeft meerdere nummers zie () voor welke opleidingen er tot dat nummer horen
+## Ongeoorloofd afwezig
 
 Ziek
 
