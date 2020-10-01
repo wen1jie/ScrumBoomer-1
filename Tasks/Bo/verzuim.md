@@ -25,10 +25,10 @@ bel zelf naar het PresentiePunt van jou locatie/opleiding
 laat je moeder, vader of verzorger het PresentiePunt bellen van jou locatie/opleiding
 
 ## Locaties & nummers PresentiePunt:
-Marterstraat - 06 19493355
-Boxmeer - 024 8904192
-Technovium/Heyendaalseweg - 024 8904300
-Energieweg - 024 8904221
-Campusbaan* (Cas Spijkers Academie, Facilitaire Dienstverlening, Horeca, Brood en Banket, Toerisme en Recreatie en Maatschappelijke Zorg) - 024 8904100
-Campusbaan* (Financiële Beroepen, Juridisch, Detailhandel, MCE, Secretarieel) - 024 8904200
-Campusbaan* (Assistenten Gezondheidszorg, Dienstverlening, Entree, Pedagogisch Werk, Sport en Bewegen, Uiterlijke Verzorging, Verpleging, Verzorging) - 024 8904400
+Marterstraat - 06 19493355<br/>
+Boxmeer - 024 8904192<br/>
+Technovium/Heyendaalseweg - 024 8904300<br/>
+Energieweg - 024 8904221<br/>
+Campusbaan* (Cas Spijkers Academie, Facilitaire Dienstverlening, Horeca, Brood en Banket, Toerisme en Recreatie en Maatschappelijke Zorg) - 024 8904100<br/>
+Campusbaan* (Financiële Beroepen, Juridisch, Detailhandel, MCE, Secretarieel) - 024 8904200<br/>
+Campusbaan* (Assistenten Gezondheidszorg, Dienstverlening, Entree, Pedagogisch Werk, Sport en Bewegen, Uiterlijke Verzorging, Verpleging, Verzorging) - 024 8904400<br/>
