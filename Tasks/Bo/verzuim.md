@@ -2,7 +2,10 @@
 het verzuim systeem der ROC-nijmegense regels achtige
 
 ### comments
+
 * deze locatie heeft meerdere nummers kijk tussen voor welke opleidingen er tot dat nummer toe behoren
+
+*
 ## Ongeoorloofd afwezig
 ben je te laat of afwezig, door te laat in de les komen zonder geldige reden
 luxe verzuim zoals vakantie (deels) buiten de schoolvakanties om, lang weekend weg, familiebezoek, spijbelen, verslapen, werken, autorijles / theorieles
