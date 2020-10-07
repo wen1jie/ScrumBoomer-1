@@ -9,7 +9,7 @@ Hou alles zo netjes mogelijk
 Dit zijn de vragen die belangrijk waren en waarvan ik dacht deze ga ik vaak krijgen, dus hier is een simpel overview.
 
 **Q: Waar word de website gehost?**</br>
-_A: https://ellitesites.tk/ _
+_A: https://ellitesites.tk/
 
 **Q: Hoelang hebben we?** </br>
 _A: 3 weken_
