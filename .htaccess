@@ -1,15 +1,8 @@
-# mod_rewrite starts here
-
 RewriteEngine on
 
-# does not apply to existing directories
 
-RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{THE_REQUEST} /([^.]+)\.html [NC]
+RewriteRule ^ /%1 [NC,L,R]
 
-# Check for file in directory with .html ext
-
-RewriteCond %{REQUEST_FILENAME}\.html -f
-
-# Here we show the page
-
-RewriteRule ^(.*)$ $1.html [NC,L]
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^ %{REQUEST_URI}.html [NC,L]
