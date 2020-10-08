@@ -1,18 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <script src="https://use.fontawesome.com/d3e887fe22.js"></script>
-    <script
-      src="https://kit.fontawesome.com/acd3f528b0.js"
-      crossorigin="anonymous"
-    ></script>
+    <script src="https://kit.fontawesome.com/acd3f528b0.js" crossorigin="anonymous"></script>
     <!-- Meta tags -->
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta
-      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
-      name="viewport"
-    />
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
     <meta name="viewport" content="width=device-width" />
 
     <!-- Favicon and title -->
@@ -29,75 +24,75 @@
     Use the following (no variables, supports IE11):
     <link href="https://cdn.jsdelivr.net/npm/halfmoon@1.1.0/css/halfmoon.min.css" rel="stylesheet" />
     Learn more: https://www.gethalfmoon.com/docs/customize/#notes-on-browser-compatibility
-  --></head>
+  -->
+</head>
 
-  <body
-    class="with-custom-webkit-scrollbars with-custom-css-scrollbars"
-    data-dm-shortcut-enabled="true"
-    data-sidebar-shortcut-enabled="true"
-    data-set-preferred-mode-onload="true"
-  >
+<body class="with-custom-webkit-scrollbars with-custom-css-scrollbars" data-dm-shortcut-enabled="true" data-sidebar-shortcut-enabled="true" data-set-preferred-mode-onload="true">
     <!-- Modals go here -->
     <!-- Reference: https://www.gethalfmoon.com/docs/modal -->
 
     <!-- Page wrapper start -->
     <div class="page-wrapper with-navbar with-sidebar">
-      <!-- Sticky alerts (toasts), empty container -->
-      <!-- Reference: https://www.gethalfmoon.com/docs/sticky-alerts-toasts -->
-      <div class="sticky-alerts"></div>
+        <!-- Sticky alerts (toasts), empty container -->
+        <!-- Reference: https://www.gethalfmoon.com/docs/sticky-alerts-toasts -->
+        <div class="sticky-alerts"></div>
 
-      <!-- Navbar start -->
-      <nav class="navbar">
-        <div class="navbar-content">
-          <button class="btn" type="button" onclick="halfmoon.toggleSidebar()">
-            <i class="fa fa-bars" aria-hidden="true"></i>
-          </button>
+        <!-- Navbar start -->
+        <nav class="navbar">
+            <div class="navbar-content">
+                <button class="btn" type="button" onclick="halfmoon.toggleSidebar()">
+          <i class="fa fa-bars" aria-hidden="true"></i>
+        </button>
+            </div>
+            <a href="#" class="navbar-brand">
+                <img src="media/logo/scrumgitdarkmodetransparent.png" alt="" /> Scrum Boomer
+            </a>
+            <!-- Reference: https://www.gethalfmoon.com/docs/navbar -->
+        </nav>
+        <!-- Navbar end -->
+
+        <!-- Sidebar start -->
+        <div class="sidebar">
+            <!-- Reference: https://www.gethalfmoon.com/docs/sidebar -->
+            <div class="sidebar-menu">
+                <h5 class="sidebar-title"></h5>
+                <div class="sidebar-divider"></div>
+                <a href="/index" class="sidebar-link active">Home</a>
+                <a href="/about" class="sidebar-link">About</a>
+                <br />
+                <h5 class="sidebar-title">Vakken</h5>
+                <div class="sidebar-divider"></div>
+                <a href="/compthink.html" class="sidebar-link"> <em class="fas fa-robot"> </em> Computational Thinking</a>
+                <a href="/htmlclass.html" class="sidebar-link"> <em class="fab fa-html5"> </em> HTML</a>
+                <a href="/javaclass.html" class="sidebar-link"> <em class="fab fa-java"> </em> Java</a>
+                <a href="/KDVS.html" class="sidebar-link"> <em class="fab fa-linkedin"> </em> KD Verdiepings Software</a>
+                <a href="/LB.html" class="sidebar-link"> <em class="fas fa-male"> </em> L&B</a>
+                <a href="/NLclass.html" class="sidebar-link"> <em class="fas fa-language"> </em> Nederlands</a>
+                <a href="/Pythonclass.html" class="sidebar-link"> <em class="fab fa-python"> </em> Python</a>
+                <a href="/rekenen.html" class="sidebar-link"> <em class="fas fa-calculator"> </em> Rekenen</a>
+                <a href="/scrumgit.html" class="sidebar-link"> <em class="fas fa-code-branch"> </em> Scrum/Git</a>
+                <a href="/ENclass.html" class="sidebar-link"> <em class="fas fa-mug-hot"> </em> Engels</a>
+                <a href="/ITEss.html" class="sidebar-link"> <em class="fas fa-desktop"> </em> IT Essentials</a>
+                <a href="/NetEss.html" class="sidebar-link"> <em class="fas fa-rss"> </em> Networking Essentials</a>
+            </div>
         </div>
-        <a href="#" class="navbar-brand">
-          <img src="media/logo/scrumgitdarkmodetransparent.png" alt="" />
-          Scrum Boomer
-        </a>
-        <!-- Reference: https://www.gethalfmoon.com/docs/navbar -->
-      </nav>
-      <!-- Navbar end -->
+        <!-- Sidebar end -->
 
-      <!-- Sidebar start -->
-      <div class="sidebar">
-        <!-- Reference: https://www.gethalfmoon.com/docs/sidebar -->
-        <div class="sidebar-menu">
-          <h5 class="sidebar-title"></h5>
-          <div class="sidebar-divider"></div>
-          <a href="/index" class="sidebar-link">Home</a>
-          <a href="/about" class="sidebar-link">About</a>
-          <br />
-          <h5 class="sidebar-title">Vakken</h5>
-          <div class="sidebar-divider"></div>
-          <a href="/compthink" class="sidebar-link">Computational Thinking</a>
-          <a href="/htmlclass" class="sidebar-link active">HTML</a>
-          <a href="/javaclass" class="sidebar-link">Java</a>
-          <a href="/KDVS" class="sidebar-link">KD Verdiepings Software</a>
-          <a href="/LB" class="sidebar-link">L&B</a>
-          <a href="/NLclass" class="sidebar-link">Nederlands</a>
-          <a href="/Pythonclass" class="sidebar-link">Python</a>
-          <a href="/rekenen" class="sidebar-link">Rekenen</a>
-          <a href="/scrumgit" class="sidebar-link">Scrum/Git</a>
-        </div>
-      </div>
-      <!-- Sidebar end -->
-
-      <!-- Content wrapper start -->
-      <div class="content-wrapper">
-        <!--
+        <!-- Content wrapper start -->
+        <div class="content-wrapper">
+            <!--
         Add your page's main content here
         Examples:
         1. https://www.gethalfmoon.com/docs/content-and-cards/#building-a-page
         2. https://www.gethalfmoon.com/docs/grid-system/#building-a-dashboard
-      --></div>
-      <!-- Content wrapper end -->
+      -->
+        </div>
+        <!-- Content wrapper end -->
     </div>
     <!-- Page wrapper end -->
 
     <!-- Halfmoon JS -->
     <script src="halfmoon/js/halfmoon.min.js"></script>
-  </body>
+</body>
+
 </html>
