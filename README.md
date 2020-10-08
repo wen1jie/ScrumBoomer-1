@@ -12,7 +12,7 @@ Dit zijn de vragen die belangrijk waren en waarvan ik dacht deze ga ik vaak krij
 _A: <https://ellitesites.tk/> & <https://scrumboomer.tk/>_
 
 **Q: Hoe vaak word deze website geupdate?**</br>
-_A: Elke 5 minuten, ik weet daarentegen niet precies wanneer elke 30 minuten_
+_A: Elke 5 minuten, ik weet daarentegen niet precies wanneer elke 5 minuten_
 
 **Q: Hoelang hebben we?** </br>
 _A: 3 weken_
