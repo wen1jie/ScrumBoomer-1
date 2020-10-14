@@ -1,0 +1,131 @@
+**korte sammenvattingen over de vakken
+_______________________________________________________________________________________________________________________________________________________________________________________
+-Python
+Geschiedenis van Python:
+Python is een programmeertaal die begin jaren 90 ontworpen en ontwikkeld werd door Guido van Rossum, destijds verbonden aan het Centrum voor Wiskunde en Informatica
+(daarvoor Mathematisch Centrum) in Amsterdam. De taal is mede gebaseerd op inzichten van professor Lambert Meertens,die een taal genaamd ABC had ontworpen, bedoeld als
+een enthousiaste groep, tot juli 2018 geleid door Van Rossum. Deze groep wordt ondersteund door vrijwilligers op het internet. De ontwikkeling van Python wordt
+geleid door de Python Software Foundation. Python is vrije software.
+
+Waarom Python op het ROC wordt gebruikt:
+Python is de laatste tijd heel populair geworden en het is een computertaal die makkelijk te begrijpen is en overzichtelijk dus is het een ideale computertaal om mee 
+te beginnen als je software wil maken.
+
+Waarvoor wordt Python gebruikt:
+Python is een heele uitgebreide computertaal en kan voor heel veel dingen gebruikt worden zoals webdevelopment, videogames, apps, simple scripting,
+data analyse, machine learning, en het kan gebruikt worden als een extensietaal voor applicaties die geschreven zijn in een andere programmeertaal.
+
+Het voordeel van Python leren:
+Het grootste voordeel van Python is dat het zo uitgebreid is en kan gebruikt worden voor heel veel verschillende functies en het is overzichtelijk en
+makkelijk te begrijpen.
+
+Hoe de toetesen van Python worden afgenomen:
+Je krijt een project van Python waarin je een bepaalde website in een bepaalde tijd. en die wordt dan beoordeeld.
+_______________________________________________________________________________________________________________________________________________________________________________________
+-Java
+
+Geschiedenis van Java en wat voor een soort computertaal is:
+Java is een programmeertaal die uit kwam bgin jaren 90 en is ontworpen door James Gosling.
+java is een platformonafhankelijke programmeertaal als een programmeertaal platformonafhankelijk is betekend het dat het uit bytecode bestaad.
+een codesoort die tussen broncode en machinecode inzit en moet voor het uitvoeren vertaald worden. En omdat het platformonafhankelijk is kan het op elke willekeurige
+computer draaien dus is het een handige programmeertaal om te leren.
+
+Waarom java op het ROC wordt gebruikt:
+Java is een van de moeilijkere programmeertalen die gegeven wordt op het ROC. Het is vooraal handig om je meteen te verdiepen in de stof de gegeven word.
+(hiermee wordt vooral de basis van java bedoeld) Zoals de termen, begrippen, nieuwe structuren, allerlei vreemde en nieuwe tekens.
+
+Waarvoor wordt Java gebruikt:
+Java woord voornamelijk gebruikt voor apps/computerspellen denk bijvoorbeeld aan Minecraft of je mobiel zoals android, althans is de heele OS gebaseerd op java zelf.
+Er worden ook opensourcebibliotheken ontwikkeld, zoals de Lightweight Java Game Library (LWJGL) en jMonkeyEngine. Lightweight Java Game Library is een
+opensourceprogramma waarin je jouw eigen game in kan maken. En jMonkeyEngine is een engine voor het ontwikkelen van 3D-computerspellen in Java.
+
+Het voordeel van java leren/kunnen:
+Een grootvoordeel als je Java als OOP (Object-Oriented Programming een programmeertaal die gebruikt maakt van objecten inplaats van acties. en gebruik maakt van gegevens
+in plaats van logica om applicaties en computerprogramma's te ontwerpen. (tegenwoordig ondersteunen de meetse programmeertalen OOP.)) leert en begrijpt, zul je zien dat
+het leren van een andere programmeertaal je heel makkelijk afgaat. Dit is eigenlijk het grootste voordeel. Naast dat wordt Java ook bij veel verschillende bedrijven
+gebruikt, waardoor het zoeken naar een baan gemakkelijk afgaat.
+
+Hoe de toetesen van java worden afgenomen:
+Het eerste periode begint met een project die 80% van je cijfer inneemt en 20% van de quizzes die je maakt. (andere periodes nog niet bekend in studie wijzer.)
+_______________________________________________________________________________________________________________________________________________________________________________________
+-HTML
+
+Waarvoor HTML gebruikt voor wordt:
+HTML ook wel HyperText Markup Language is een computertaal dat. voornamelijk bedoeld voor het wereldwijde web. Het is de standaard opmaaktaal voor webpagina's.
+Documenten in HTML kunnen geopend en gelezen worden door een webbrowser om vervolgens als webpagina weergegeven te worden. HTML-documenten bevatten op de eerste plaats
+semantische structuur en tekstuele inhoud van een webpagina; de opmaak en visuele weergave kunnen er ook in worden beschreven, maar daar wordt tegenwoordig gewoonlijk 
+CSS voor gebruikt.
+
+Waarom HTML op het ROC wordt gebruikt:
+Omdat HTML op zo'n beetje elke website wordt gebruikt op het internet is het een belangrijk deel in de opleiding softwareontwikkelaar en als je bij een bedrijf later
+gaat werken die websites maakt moet je het kunnen om mee te willen werken aan een website.
+
+Wat is belangrijk bij het leren van HTML:
+Dat je alle basis kent en kan werken met CSS en weet wat alle codes inhoud en wat het uitvoert. Het wordt ook vooral aangeraad om zelf een keer te beginnen met het
+creëren van een website.
+
+Hoe de toetesen van HTML worden afgenomen:
+Je krijt een project van HTML waarin je een bepaalde website in een bepaalde tijd. en die wordt dan beoordeeld.
+_______________________________________________________________________________________________________________________________________________________________________________________
+
+-Scrum/git
+
+-Scrum
+is een framework om op een flexibele manier (software) producten te maken. Er wordt gewerkt in multidisciplinaire teams die in korte sprints, met een 
+vaste lengte van 1 tot 4 weken, werkende (software) producten opleveren. Bij een scrum probeert een team samen een doel te bereiken en de wedstrijd te winnen.
+Samenwerking is heel belangrijk en men moet snel kunnen inspelen op veranderende omstandigheden.
+Scrum wordt vaak gebruikt bij producten waarvan de klant c.q. gebruiker nog niet goed weet wat hij wil en waarbij men al doende leert om de eisen en wensen beter te
+beschrijven en in bruikbare producten om te zetten.Vaak weet men pas wat men wil als men het eerste product, het prototype, ziet en dan worden alsnog de eisen aangepast.
+Scrum heeft de flexibiliteit om met laat wijzigende eisen en wensen om te gaan. Scrum valt onder de Agile-softwareontwikkeling.
+
+-Git
+is een vrij gedistribueerd versiebeheersysteem. Het wordt ook wel een softwarebroncode-managementproject (broncode is het leesbare text die geschrevenword door de 
+programmeur.) genoemd. De nadruk ligt op snelheid. Git is oorspronkelijk gemaakt door Linus Torvalds voor de ontwikkeling van de Linuxkernel. Iedere Git-werkmap bevat 
+de volledige repository (een opslag plaats van software.) met een compleet historisch overzicht en volledige trackingcapaciteiten. Git is niet afhankelijk van een
+gemeenschappelijke locatie of een centrale server zoals het Concurrent Versions System (CVS) of Subversion (SVN).
+
+_______________________________________________________________________________________________________________________________________________________________________________________
+-Computional Thinking
+
+Is een vak waar we een algoritme moeten opschrijven over hoe een computer het zal doen, dus stel we moeten een computer een taak laten uitvoeren dan moeten we
+de stappen zo specifiek mogelijk opschrijven.
+_______________________________________________________________________________________________________________________________________________________________________________________
+-KD Verdiepings Software
+
+Is een vak waarbij leren hoe het office pakket in elkaar zit. en hoe je het meest efficiënt kunt werken met het office pakket met voorbeeld zoals word, excel,
+powerpoint, ect.
+_______________________________________________________________________________________________________________________________________________________________________________________
+-Networking Essentials
+
+Is het vak waarbij we leren hoe netwerken werken zoals wifi (draadloos internet) ethernet (via kabel). en hoe je een veilige netwerk kan maken met firewalls/WPS 
+(Wifi Protected Setup is een methode om gemakkelijk apparaten met elkaar te verbinden via wifi.) en UPnP (UPnP staat voor Universal Plug and Play. Met UPnPverbinden
+apparaten zonder lastige configuratie (een manier waarop iets is opgebouwt.), zoals het handmatig openstellen van poorten.)
+_______________________________________________________________________________________________________________________________________________________________________________________
+-IT Essentials
+
+Is het vak waarbij we het hebben over alle computer componenten over hoe je het best kan onderhouden, waarvoor de computer componenten gebruikt wordt en 
+welke component je het best kan gebruiken voor een bepaalde build/bouw van een computer.
+_______________________________________________________________________________________________________________________________________________________________________________________
+-Rekenen
+
+Rekenen het vak waarbij je optelt en aftelt dit kan soms van pas kommen met het maken van bepaalde software.
+_______________________________________________________________________________________________________________________________________________________________________________________
+-Engels
+
+Een heele belangrijke taal om te kennen want het wordt veel gebruikt in de wereld zelf en meestal bestaan de codes/commands in een computertaal uit Engels.
+_______________________________________________________________________________________________________________________________________________________________________________________
+-Nederlands
+
+Een handige taal om te hebben omdat we daarmee grootendeels naar elkaar communiceren. in Nederland.
+_______________________________________________________________________________________________________________________________________________________________________________________
+-L&B
+
+L&B Ook wel Loopbaan en Burgerschap/maatschapij het vak waarbij we leeren wat het normaal is in Nederland. en hoe de wet in elkaar zit.
+_______________________________________________________________________________________________________________________________________________________________________________________
+-Sport op maat
+
+Sport op maat is gewoon sport en het is ook een examen onderdeel op het ROC dus je moet ervoor slagen om deel aan het examen te kunnen neemen
+_______________________________________________________________________________________________________________________________________________________________________________________
+-SLB/begeleiding op afstand
+Als je iets niet snapt of als je ergens mee hulp nodig hebt kan je in dit uur met je docenten, begelijder of zorgmedewerkers (GGD) het er over hebben.
+_______________________________________________________________________________________________________________________________________________________________________________________
